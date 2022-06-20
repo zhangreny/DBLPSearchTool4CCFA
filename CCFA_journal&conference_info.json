@@ -1,0 +1,617 @@
+{
+	"计算机体系结构/并行与分布计算/存储系统": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Computer Systems",
+			"shortname": "TOCS",
+			"website": "http://dblp.uni-trier.de/db/journals/tocs/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Storage",
+			"shortname": "TOS",
+			"website": "http://dblp.uni-trier.de/db/journals/tos/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Computer-Aided Design of Integrated Circuits And System",
+			"shortname": "TCAD",
+			"website": "http://dblp.uni-trier.de/db/journals/tcad/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Computers",
+			"shortname": "TC",
+			"website": "http://dblp.uni-trier.de/db/journals/tc/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Parallel and Distributed Systems",
+			"shortname": "TPDS",
+			"website": "http://dblp.uni-trier.de/db/journals/tpds/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM SIGPLAN Symposium on Principles & Practice of Parallel Programming",
+			"shortname": "PPoPP",
+			"website": "http://dblp.uni-trier.de/db/conf/ppopp/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Conference on File and Storage Technologies",
+			"shortname": "FAST",
+			"website": "http://dblp.uni-trier.de/db/conf/fast/",
+			"publisher": "USENIX"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Design Automation Conference",
+			"shortname": "DAC",
+			"website": "https://dblp.uni-trier.de/db/conf/dac/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "High Performance Computer Architecture",
+			"shortname": "HPCA",
+			"website": "http://dblp.uni-trier.de/db/conf/hpca/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE/ACM International Symposium on Microarchitecture",
+			"shortname": "MICRO",
+			"website": "https://dblp.uni-trier.de/db/conf/micro/",
+			"publisher": "IEEE/ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference for High Performance Computing, Networking, Storage, and Analysis",
+			"shortname": "SC",
+			"website": "http://dblp.uni-trier.de/db/conf/sc/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Architectural Support for Programming Languages and Operating Systems",
+			"shortname": "ASPLOS",
+			"website": "http://dblp.uni-trier.de/db/conf/asplos/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Symposium on Computer Architecture",
+			"shortname": "ISCA",
+			"website": "http://dblp.uni-trier.de/db/conf/isca/",
+			"publisher": "ACM /IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "USENIX Annul Technical Conference",
+			"shortname": "USENIX ATC",
+			"website": "http://dblp.uni-trier.de/db/conf/usenix/",
+			"publisher": "USENIX"
+		}
+	],
+	"计算机网络": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Journal of Selected Areas in Communications",
+			"shortname": "JSAC",
+			"website": "http://dblp.uni-trier.de/db/journals/jsac/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Mobile Computing",
+			"shortname": "TMC",
+			"website": "http://dblp.uni-trier.de/db/journals/tmc/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE/ACM Transactions on Networking",
+			"shortname": "TON",
+			"website": "http://dblp.uni-trier.de/db/journals/ton/",
+			"publisher": "IEEE, ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM International Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+			"shortname": "SIGCOMM",
+			"website": "http://dblp.uni-trier.de/db/conf/sigcomm/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM International Conference on Mobile Computing and Networking",
+			"shortname": "MobiCom",
+			"website": "http://dblp.uni-trier.de/db/conf/mobicom/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE International Conference on Computer Communications",
+			"shortname": "INFOCOM",
+			"website": "http://dblp.uni-trier.de/db/conf/infocom/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Symposium on Network System Design and Implementation",
+			"shortname": "NSDI",
+			"website": "http://dblp.uni-trier.de/db/conf/nsdi/",
+			"publisher": "USENIX"
+		}
+	],
+	"网络与信息安全": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Dependable and Secure Computing",
+			"shortname": "TDSC",
+			"website": "http://dblp.uni-trier.de/db/journals/tdsc/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Information Forensics and Security",
+			"shortname": "TIFS",
+			"website": "http://dblp.uni-trier.de/db/journals/tifs/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "Journal of Cryptology",
+			"shortname": "",
+			"website": "http://dblp.uni-trier.de/db/journals/tifs/",
+			"publisher": "Springer"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Conference on Computer and Communications Security",
+			"shortname": "CCS",
+			"website": "http://dblp.uni-trier.de/db/conf/ccs/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "European Cryptology Conference",
+			"shortname": "EUROCRYPT",
+			"website": "http://dblp.uni-trier.de/db/conf/eurocrypt/",
+			"publisher": "Springer"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE Symposium on Security and Privacy",
+			"shortname": "S&P",
+			"website": "http://dblp.uni-trier.de/db/conf/sp/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Cryptology Conference",
+			"shortname": "CRYPTO",
+			"website": "http://dblp.uni-trier.de/db/conf/crypto/",
+			"publisher": "Springer"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Usenix Security Symposium",
+			"shortname": "USENIX Security",
+			"website": "http://dblp.uni-trier.de/db/conf/uss/",
+			"publisher": "USENIX Association"
+		}
+	],
+	"软件工程/系统软件/程序设计语言": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Programming Languages & Systems",
+			"shortname": "TOPLAS",
+			"website": "http://dblp.uni-trier.de/db/journals/toplas/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Software Engineering and Methodology",
+			"shortname": "TOSEM",
+			"website": "http://dblp.uni-trier.de/db/journals/tosem/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Software Engineering",
+			"shortname": "TSE",
+			"website": "http://dblp.uni-trier.de/db/journals/tse/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM SIGPLAN Conference on Programming Language Design & Implementation",
+			"shortname": "PLDI",
+			"website": "http://dblp.uni-trier.de/db/conf/pldi/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages",
+			"shortname": "POPL",
+			"website": "http://dblp.uni-trier.de/db/conf/popl/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference",
+			"shortname": "FSE/ESEC",
+			"website": "http://dblp.uni-trier.de/db/conf/sigsoft/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Symposium on Operating Systems Principles",
+			"shortname": "SOSP",
+			"website": "http://dblp.uni-trier.de/db/conf/sosp/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Conference on Object-Oriented Programming Systems, Languages, and Applications",
+			"shortname": "OOPSLA",
+			"website": "http://dblp.uni-trier.de/db/conf/oopsla/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Automated Software Engineering",
+			"shortname": "ASE",
+			"website": "http://dblp.uni-trier.de/db/conf/kbse/",
+			"publisher": "IEEE/ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Software Engineering",
+			"shortname": "ICSE",
+			"website": "http://dblp.uni-trier.de/db/conf/icse/",
+			"publisher": "ACM/IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Symposium on Software Testing and Analysis",
+			"shortname": "ISSTA",
+			"website": "http://dblp.uni-trier.de/db/conf/issta/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "USENIX Symposium on Operating Systems Design and Implementations",
+			"shortname": "OSDI",
+			"website": "http://dblp.uni-trier.de/db/conf/osdi/",
+			"publisher": "USENIX"
+		}
+	],
+	"数据库/数据挖掘/内容检索": [	
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Database Systems",
+			"shortname": "TODS",
+			"website": "http://dblp.uni-trier.de/db/journals/tods/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Information Systems",
+			"shortname": "TOIS",
+			"website": "http://dblp.uni-trier.de/db/journals/tois/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Knowledge and Data Engineering",
+			"shortname": "TKDE",
+			"website": "http://dblp.uni-trier.de/db/journals/tkde/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "The VLDB Journal",
+			"shortname": "VLDBJ",
+			"website": "http://dblp.uni-trier.de/db/journals/vldb/",
+			"publisher": "Springer"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Conference on Management of Data",
+			"shortname": "SIGMOD",
+			"website": "http://dblp.uni-trier.de/db/conf/sigmod/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Knowledge Discovery and Data Mining",
+			"shortname": "SIGKDD",
+			"website": "http://dblp.uni-trier.de/db/conf/kdd/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE International Conference on Data Engineering",
+			"shortname": "ICDE",
+			"website": "http://dblp.uni-trier.de/db/conf/icde/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Research on Development in Information Retrieval",
+			"shortname": "SIGIR",
+			"website": "http://dblp.uni-trier.de/db/conf/sigir/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Very Large Data Bases",
+			"shortname": "VLDB",
+			"website": "http://dblp.uni-trier.de/db/conf/vldb/",
+			"publisher": "Morgan Kaufmann/ACM"
+		}
+	],
+	"计算机科学理论": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Information Theory",
+			"shortname": "TIT",
+			"website": "http://dblp.uni-trier.de/db/journals/tit/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "Information and Computation",
+			"shortname": "IANDC",
+			"website": "http://dblp.uni-trier.de/db/journals/iandc/",
+			"publisher": "Elsevier"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "SIAM Journal on Computing",
+			"shortname": "SICOMP",
+			"website": "http://dblp.uni-trier.de/db/journals/siamcomp/",
+			"publisher": "SIAM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Symposium on the Theory of Computing",
+			"shortname": "STOC",
+			"website": "http://dblp.uni-trier.de/db/conf/stoc/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM-SIAM Symposium on Discrete Algorithms",
+			"shortname": "SODA",
+			"website": "http://dblp.uni-trier.de/db/conf/soda/",
+			"publisher": "SIAM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Computer Aided Verification",
+			"shortname": "CAV",
+			"website": "http://dblp.uni-trier.de/db/conf/cav/",
+			"publisher": "Springer"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE Annual Symposium on Foundations of Computer Science",
+			"shortname": "FOCS",
+			"website": "http://dblp.uni-trier.de/db/conf/focs/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE Symposium on Logic in Computer Science",
+			"shortname": "LICS",
+			"website": "http://dblp.uni-trier.de/db/conf/lics/",
+			"publisher": "IEEE"
+		}
+	],
+	"计算机图形学与多媒体": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Graphics",
+			"shortname": "TOG",
+			"website": "http://dblp.uni-trier.de/db/journals/tog/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Image Processing",
+			"shortname": "TIP",
+			"website": "http://dblp.uni-trier.de/db/journals/tip/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Transactions on Visualization and Computer Graphics",
+			"shortname": "TVCG",
+			"website": "http://dblp.uni-trier.de/db/journals/tvcg/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM International Conference on Multimedia",
+			"shortname": "ACM MM",
+			"website": "http://dblp.uni-trier.de/db/conf/mm/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM SIGGRAPH Annual Conference",
+			"shortname": "SIGGRAPH",
+			"website": "http://dblp.uni-trier.de/db/conf/siggraph/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE Virtual Reality",
+			"shortname": "VR",
+			"website": "http://dblp.uni-trier.de/db/conf/vr/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE Visualization Conference",
+			"shortname": "IEEE VIS",
+			"website": "http://dblp.uni-trier.de/db/conf/visualization/",
+			"publisher": "IEEE"
+		}
+	],
+	"人工智能": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "Artificial Intelligence",
+			"shortname": "AI",
+			"website": "http://dblp.uni-trier.de/db/journals/ai/",
+			"publisher": "Elsevier"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "IEEE Trans on Pattern Analysis and Machine Intelligence",
+			"shortname": "TPAMI",
+			"website": "http://dblp.uni-trier.de/db/journals/pami/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "International Journal of Computer Vision",
+			"shortname": "IJCV",
+			"website": "http://dblp.uni-trier.de/db/journals/ijcv/",
+			"publisher": "Springer"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "Journal of Machine Learning Research",
+			"shortname": "JMLR",
+			"website": "http://dblp.uni-trier.de/db/journals/jmlr/",
+			"publisher": "MIT Press"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "AAAI Conference on Artificial Intelligence",
+			"shortname": "AAAI",
+			"website": "http://dblp.uni-trier.de/db/conf/aaai/",
+			"publisher": "AAAI"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Annual Conference on Neural Information Processing Systems",
+			"shortname": "NeurIPS",
+			"website": "http://dblp.uni-trier.de/db/conf/nips/",
+			"publisher": "MIT Press"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Annual Meeting of the Association for Computational Linguistics",
+			"shortname": "ACL",
+			"website": "http://dblp.uni-trier.de/db/conf/acl/",
+			"publisher": "ACL"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "IEEE Conference on Computer Vision and Pattern Recognition",
+			"shortname": "CVPR",
+			"website": "http://dblp.uni-trier.de/db/conf/cvpr/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Computer Vision",
+			"shortname": "ICCV",
+			"website": "http://dblp.uni-trier.de/db/conf/iccv/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Conference on Machine Learning",
+			"shortname": "ICML",
+			"website": "http://dblp.uni-trier.de/db/conf/icml/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International Joint Conference on Artificial Intelligence",
+			"shortname": "IJCAI",
+			"website": "http://dblp.uni-trier.de/db/conf/ijcai/",
+			"publisher": "Morgan Kaufmann"
+		}
+	],
+	"人机交互与普适计算": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "ACM Transactions on Computer-Human Interaction",
+			"shortname": "TOCHI",
+			"website": "http://dblp.uni-trier.de/db/journals/tochi/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "International Journal of Human Computer Studies",
+			"shortname": "IJHCS",
+			"website": "http://dblp.uni-trier.de/db/journals/ijmms/",
+			"publisher": "Elsevier"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Conference on Computer Supported Cooperative Work and Social Computing",
+			"shortname": "CSCW",
+			"website": "http://dblp.uni-trier.de/db/conf/cscw",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM Conference on Human Factors in Computing Systems",
+			"shortname": "CHI",
+			"website": "http://dblp.uni-trier.de/db/conf/chi",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "ACM International Conference on Ubiquitous Computing",
+			"shortname": "UbiComp",
+			"website": "http://dblp.uni-trier.de/db/conf/huc/",
+			"publisher": "ACM"
+		}
+	],
+	"交叉/综合/新兴": [
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "Journal of the ACM",
+			"shortname": "JACM",
+			"website": "http://dblp.uni-trier.de/db/journals/jacm/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "J",
+			"fullname": "Proceedings of the IEEE",
+			"shortname": "Proc. IEEE",
+			"website": "http://dblp.uni-trier.de/db/journals/pieee/",
+			"publisher": "IEEE"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "International World Wide Web Conferences",
+			"shortname": "WWW",
+			"website": "http://dblp.uni-trier.de/db/conf/www/",
+			"publisher": "ACM"
+		},
+		{
+			"Journal(J)orConference(C)": "C",
+			"fullname": "Real-Time Systems Symposium",
+			"shortname": "RTSS",
+			"website": "http://dblp.uni-trier.de/db/conf/rtss/",
+			"publisher": "IEEE"
+		}
+	]
+}
