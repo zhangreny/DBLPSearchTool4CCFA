@@ -26,7 +26,7 @@ def getallwords(title):
                 wordlist.append(tmp.lower())
                 tmp = ''
         if i == len(title)-1 and len(tmp) > 0:
-            wordlist.append(tmp)
+            wordlist.append(tmp.lower())
     return wordlist
 
 
